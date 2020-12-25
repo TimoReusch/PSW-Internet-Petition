@@ -4,7 +4,7 @@
  
  If you have a similar usecase, feel free to use the source code and modify it to your needs :)
  
- ## Implementing the tool
+ ## Implementing the tool yourself 🚀
  To get started, create a database and put in your credentials into the variables in "mysql.php".
  Then create a table with the neccessary colums, using this SQL-Statement:
  
@@ -29,3 +29,8 @@
 ```
 
 Don´t forget to make "id" the primary key!
+
+## More Information 💭
+This site uses the Bootstrap Framework, which is included via CDN.
+
+As a little extra, I´ve added support for device-wide dark mode.
