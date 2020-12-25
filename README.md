@@ -1,10 +1,10 @@
 # PSW-Internet-Petition
  The internet-connection in my student residence is very slow for many tenants. With this tool, tenants can submit their internet speed and sign the petition digitally.
- The solution is a bit quick & dirty, but it works. Maybe I´ll make it better over time.
- 
- If you have a similar usecase, feel free to use the source code and modify it to your needs :)
+ The solution is a bit quick & dirty, but it works. Maybe I´ll make it better in the future.
  
  ## Implementing the tool yourself 🚀
+ If you have a similar usecase, feel free to clone the repo and modify the source code to your needs :)
+ 
  To get started, create a database and put in your credentials into the variables in "mysql.php".
  Then create a table with the neccessary colums, using this SQL-Statement:
  
@@ -31,6 +31,6 @@
 Don´t forget to make "id" the primary key!
 
 ## More Information 💭
-This site uses the Bootstrap Framework, which is included via CDN.
+This site uses the Bootstrap-Framework, which is included via CDN.
 
 As a little extra, I´ve added support for device-wide dark mode.
